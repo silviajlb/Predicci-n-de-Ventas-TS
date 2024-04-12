@@ -1,3 +1,5 @@
+![Texto alternativo](cover.jpg)
+
 ### Predicción de Ventas del Mes Siguiente mediante Series Temporales
 
 #### Breve Descripción:
